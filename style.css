@@ -1,0 +1,199 @@
+*{
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+body{
+ background-color: antiquewhite;
+}
+
+
+.slider{
+ font-family: Georgia, 'Times New Roman', Times, serif;
+ font-weight: 900;
+ font-size: 3rem;
+ text-align: center;
+ background-image: url(exterior.jpg);
+ background-position: center;
+ background-size: cover;
+ background-attachment: fixed;
+ height: 800px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ opacity: 0.7;
+ letter-spacing: 5px;
+
+}
+
+
+
+.bir h1 {
+ width: 462px;
+ background-color: #201f1f;
+ color:wheat;
+ font-size: 3rem;
+ text-transform: uppercase;
+ padding: 29px 32px;
+ outline: 10px inset #1069ef;
+ outline-offset: 20px;
+ border-radius: 10px 0 10px;
+}
+
+.iki {
+  font-family: 'Times New Roman', Times, serif;
+ color:rgb(198, 116, 105);
+ text-align: center;
+ height: 362px;
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+ line-height: 31.68px;
+ padding: 0px 100px;
+ opacity:0.8;
+ font-size: 24px;
+}
+
+iki h2 {
+ margin-bottom: 20px;
+}
+
+.üç {
+ font-family: 'Lato', sans-serif;
+ font-family: 900;
+ font-size: 3rem;
+ text-align: center;
+ background-image: url(205gti.jpg);
+ background-position: center;
+ background-size: cover;
+ background-attachment: fixed;
+ height: 576px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+
+}
+
+.dört{
+ text-align: center;
+ height: 362px;
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+ line-height:31.68px;
+ padding: 0px 100px;
+ opacity: 0.8;
+ font-size: 17.6;
+ background-color: #484848;
+ color:white;
+}
+
+
+
+.dört h2{
+ margin-bottom: 20px;
+}
+
+
+.beş{
+ font-family: 'Lato', sans-serif;
+ font-weight: 3rem;
+ text-align: center;
+ background-image: url(205gti1.jpg);
+ background-position: center;
+ background-attachment: fixed;
+ height: 600px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ opacity: 0.8;
+
+}
+
+.beş h2{
+  font-size: 3rem;
+  width: 740px;
+  letter-spacing: 5px;
+  font-weight: 700;
+  background-color: brown;
+  color: white;
+  padding: 29px 32px;
+  outline: 10px inset #a253a2;
+  outline-offset: 20px;
+  border-radius: 10px 0px 10px;
+}
+
+.altı{
+    text-align: center;
+    height: 362px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    line-height: 31.68px;
+    padding: 0px 100px;
+    opacity: 0.8;
+    font-size: 17.6;
+    background-color: #484848;
+    color: white;
+}
+
+.altı h2{
+  margin-bottom: 20px;
+}
+
+.yedi{
+  font-family: 'Lato', sans-serif;
+   font-weight: 3rem;
+   text-align: center;
+   background-image: url(tool.jpg);
+   background-position: center;
+   background-attachment: fixed;
+   height: 600px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   opacity: 0.8;
+}
+
+
+.sekiz{
+    text-align: center;
+    height: 362px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    line-height: 31.68px;
+    padding: 0px 100px;
+    opacity: 0.8;
+    font-size: 17.6;
+    background-color: #484848;
+    color: white;
+}
+.sekiz h2 {
+  width: 462px;
+  background-color: #201f1f;
+  color: wheat;
+  font-size: 3rem;
+  text-transform: uppercase;
+  padding: 29px 32px;
+  outline: 10px inset #129cdc;
+  outline-offset: 20px;
+  border-radius: 10px 0 10px;  
+}
+.dokuz {
+ font-family: 'Lato', sans-serif;
+ font-weight: 3rem;
+ text-align: center;
+ background-image: url(205gti1.jpg);
+ background-position: center;
+ background-attachment: fixed;
+ height: 600px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ opacity: 0.8;
+}
